@@ -1,0 +1,26 @@
+.bg-primary {
+  background-color: #ffffff!important;
+}
+
+.text-white {
+  color: #2c3e50!important;
+}
+
+hr.star-light:after {
+  color: #ffffff;
+  background-color: #ffffff;
+}
+
+hr.star-light:after {
+  color: #fff;
+  background-color: #18bc9c;
+}
+
+hr.star-light {
+  border-color: #2c3e50;
+}
+
+a {
+  color: rgb(0,148,255);
+}
+
